@@ -1,0 +1,10 @@
+xsecMap = {
+    "MC_DYJetsToLL_HT70-100":1.467e+02,
+    "MC_DYJetsToLL_HT100-200":1.608e+02,
+    "MC_DYJetsToLL_HT200-400":4.863e+01,
+    "MC_DYJetsToLL_HT400-600":6.978e+00,
+    "MC_DYJetsToLL_HT600-800":1.756e+00,
+    "MC_DYJetsToLL_HT800-1200":8.094e-01,
+    "MC_DYJetsToLL_HT1200-2500":1.931e-01,
+    "MC_DYJetsToLL_HT2500-Inf":3.516e-03,
+}
